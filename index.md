@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<meta charset="utf-8"/>
+<head><meta charset="utf-8"/>
 
 <!-- javascript from CDN for conversion -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.js"></script>
@@ -13164,7 +13164,7 @@ $( document ).ready(function(){
         });
     });
 
-</script>
+</script></head>
 
 
 
